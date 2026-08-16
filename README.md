@@ -44,10 +44,6 @@ This project demonstrates my understanding of **Java programming, Object-Oriente
 4. ▶️ Run the program.
 5. 🖥️ Select an option from the menu.
 
-## 📸 Sample Output
-
-Add screenshots of the actual program output here.
-
 ## 📁 Project Structure
 
 ```text
@@ -60,7 +56,3 @@ Add screenshots of the actual program output here.
 ## 🎓 Learning Outcome
 
 Through this project, I improved my understanding of **Java programming, OOP concepts, data management, CRUD operations, and problem-solving**.
-
-
-
-🔗 GitHub: `bhomeshsanghavi`
